@@ -1,6 +1,12 @@
 # Outlook Taskboard aka **JanBan**
 Outlook Taskboard is a kanban board style view for Outlook Tasks.
 
+I followed the Kanban board of Evren Vanrol quite a while and also the fork of Jan van Veldhuizen. But Jan moved his fork to GitLab. You can find him here https://gitlab.com/janvv/janban.
+Jan also started a new project called janban-2.0, where he is rewriting the whole tool in another language.
+I do like his ideas and will keep an eye on his progress. But for now there is no progress on his Kanban board for outlook. So restored it back to GitHub with all my adjustments.
+
+----- 10/17/18 ------
+
 I found the original Kanban board implemented by Evren Varol. I looked at the forks and liked the 
 changes by BillyMcSkintos, using the task status instead of folders. But he lost the drag&drop
 feature.
